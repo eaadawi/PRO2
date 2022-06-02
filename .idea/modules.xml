@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dumme methoder/Dumme methoder.iml" filepath="$PROJECT_DIR$/Dumme methoder/Dumme methoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01-Rekursion/L01-Rekursion.iml" filepath="$PROJECT_DIR$/L01-Rekursion/L01-Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02-Rekursion(fortsat)/L02-Rekursion(fortsat).iml" filepath="$PROJECT_DIR$/L02-Rekursion(fortsat)/L02-Rekursion(fortsat).iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03-Del-løs-kombiner/L03-Del-løs-kombiner.iml" filepath="$PROJECT_DIR$/L03-Del-løs-kombiner/L03-Del-løs-kombiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04-Java collections framework/L04-Java collections framework.iml" filepath="$PROJECT_DIR$/L04-Java collections framework/L04-Java collections framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06-Strategy og Observer/L06-Strategy og Observer.iml" filepath="$PROJECT_DIR$/L06-Strategy og Observer/L06-Strategy og Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07-Unit test og mocking/L07-Unit test og mocking.iml" filepath="$PROJECT_DIR$/L07-Unit test og mocking/L07-Unit test og mocking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10-Singleton og Adapter/L10-Singleton og Adapter.iml" filepath="$PROJECT_DIR$/L10-Singleton og Adapter/L10-Singleton og Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11-Iterator og Composite/L11-Iterator og Composite.iml" filepath="$PROJECT_DIR$/L11-Iterator og Composite/L11-Iterator og Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19-Kædestrukturer/L19-Kædestrukturer.iml" filepath="$PROJECT_DIR$/L19-Kædestrukturer/L19-Kædestrukturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20-Stakke og tidskompleksitet/L20-Stakke og tidskompleksitet.iml" filepath="$PROJECT_DIR$/L20-Stakke og tidskompleksitet/L20-Stakke og tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21-Køer og cirkulære lister/L21-Køer og cirkulære lister.iml" filepath="$PROJECT_DIR$/L21-Køer og cirkulære lister/L21-Køer og cirkulære lister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22-Hashing/L22-Hashing.iml" filepath="$PROJECT_DIR$/L22-Hashing/L22-Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23-Generiske klasser/L23-Generiske klasser.iml" filepath="$PROJECT_DIR$/L23-Generiske klasser/L23-Generiske klasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24-Træstrukturer/L24-Træstrukturer.iml" filepath="$PROJECT_DIR$/L24-Træstrukturer/L24-Træstrukturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L25-Binære søgetræer/L25-Binære søgetræer.iml" filepath="$PROJECT_DIR$/L25-Binære søgetræer/L25-Binære søgetræer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L26-Hashing og Maps/L26-Hashing og Maps.iml" filepath="$PROJECT_DIR$/L26-Hashing og Maps/L26-Hashing og Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27-Prøveeksamen/L27-Prøveeksamen.iml" filepath="$PROJECT_DIR$/L27-Prøveeksamen/L27-Prøveeksamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28-Repetition/L28-Repetition.iml" filepath="$PROJECT_DIR$/L28-Repetition/L28-Repetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO2-Project.iml" filepath="$PROJECT_DIR$/PRO2-Project.iml" />
+    </modules>
+  </component>
+</project>
